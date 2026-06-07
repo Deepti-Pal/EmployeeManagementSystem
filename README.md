@@ -177,16 +177,4 @@ departments ──< employees >── salary_records
 
 ---
 
-## Resume Points (Proven by Code)
-✅ **Java** – Full Java 11+ application  
-✅ **OOP** – Models, encapsulation, singleton, layered architecture  
-✅ **MySQL** – Schema design, FK constraints, Views, Indexes  
-✅ **SQL Queries** – PreparedStatements, JOINs, GROUP BY, aggregations  
-✅ **CRUD Operations** – All 4 operations across all entities  
-✅ **Database Design** – Normalized 3NF schema  
-✅ **Problem Solving** – Validation, auth, role control  
-✅ **Business Applications** – HR workflow with payroll and reporting  
 
----
-
-*Built for portfolio demonstration – Accenture-aligned enterprise Java stack*
